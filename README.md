@@ -5,8 +5,8 @@ We make use of Airtable, see https://www.airtable.com/get_started_faster
 
 ## UK
 
-UK Finance: https://airtable.com/tbloTmw4w8TU91orH/viwVuz3M3NsYymPUZ?blocks=hide
+UK Planning & Budgeting: https://airtable.com/tbloTmw4w8TU91orH/viwVuz3M3NsYymPUZ?blocks=hide
 
 ## NL
 
-NL Finance: https://airtable.com/tblVGXAFP4M1xdfpK/viwjGmbUAFBwVv9GA?blocks=hide
+NL Planning & Budgeting: https://airtable.com/tblVGXAFP4M1xdfpK/viwjGmbUAFBwVv9GA?blocks=hide
